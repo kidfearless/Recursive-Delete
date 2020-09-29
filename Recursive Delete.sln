@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Delete", "Recursive Delete.csproj", "{7F15FC8C-0A5A-4292-A6BE-5F4B752C5828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F15FC8C-0A5A-4292-A6BE-5F4B752C5828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F15FC8C-0A5A-4292-A6BE-5F4B752C5828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F15FC8C-0A5A-4292-A6BE-5F4B752C5828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F15FC8C-0A5A-4292-A6BE-5F4B752C5828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBF9D60-50A3-4A71-8683-0221B2ECF5BE}
+	EndGlobalSection
+EndGlobal
